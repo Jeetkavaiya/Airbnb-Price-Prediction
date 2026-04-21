@@ -1,7 +1,5 @@
 # Airbnb Price Prediction: XGBoost vs Neural Networks
 
-## EAS 510 - Assignment 4
-
 A comprehensive machine learning analysis comparing XGBoost and Neural Network models for predicting Airbnb listing prices across 12 US cities organized into three market tiers.
 
 ---
